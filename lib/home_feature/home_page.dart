@@ -28,6 +28,9 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: [
           Container(
+            decoration: const BoxDecoration(
+              color: Colors.amber
+            ),
 
           ),
           Container(
